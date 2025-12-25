@@ -49,7 +49,8 @@ The goal of this repo is to:
 | 42 | [Day42.py](Day42.py) | Data Preprocessing Techniques |
 | 43 | [Day43.py](Day43.py) | Encoding Categorical Variables (Label, OneHot, Ordinal) |
 | 44 | [Day44.py](Day44.py) | Feature Scaling Techniques |
-| 45 | [Day45.ipynb](Day45.ipynb) | Laptop Battery Health Analysis (Jupyter Notebook) |
+| 45 | [Day45.ipynb](Day45.ipynb) | Mini-Project (End to End Machine Learning Workflow) |
+| 46 | [Day45.ipynb](Day45.ipynb) | Model Evaluation & Error Analysis (Continuation of Day 45) |
 
 ---
 

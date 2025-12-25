@@ -51,6 +51,7 @@ The goal of this repo is to:
 | 44 | [Day44.py](Day44.py) | Feature Scaling Techniques |
 | 45 | [Day45.ipynb](Day45.ipynb) | Mini-Project (End to End Machine Learning Workflow) |
 | 46 | [Day45.ipynb](Day45.ipynb) | Model Evaluation & Error Analysis (Continuation of Day 45) |
+| 47 | [Day45.ipynb](Day45.ipynb) | Improving Model based on Error Analysis (Continuation of Day 46) |
 
 ---
 

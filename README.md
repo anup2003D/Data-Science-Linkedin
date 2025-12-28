@@ -54,6 +54,7 @@ The goal of this repo is to:
 | 47 | [Day45.ipynb](Day45.ipynb) | Improving Model based on Error Analysis (Continuation of Day 46) |
 | 48 | [Day45.ipynb](Day45.ipynb) | Model Comparison and Baseline Benchmarking (Continuation of Day 47) |
 | 49 | [Day49.py](Day49.py) | Cross Validation |
+| 50 | [Day50.py](Day50.py) | Bias vs Variance & Underfitting vs Overfitting |
 
 ---
 

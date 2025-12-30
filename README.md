@@ -56,6 +56,7 @@ The goal of this repo is to:
 | 49 | [Day49.py](Day49.py) | Cross Validation |
 | 50 | [Day50.py](Day50.py) | Bias vs Variance & Underfitting vs Overfitting |
 | 51 | [Day51.py](Day51.py) | Feature Selection |
+| 52 | [Day52.py](Day52.py) | Feature Selection using RFE |
 
 ---
 

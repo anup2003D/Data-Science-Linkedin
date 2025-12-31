@@ -57,6 +57,7 @@ The goal of this repo is to:
 | 50 | [Day50.py](Day50.py) | Bias vs Variance & Underfitting vs Overfitting |
 | 51 | [Day51.py](Day51.py) | Feature Selection |
 | 52 | [Day52.py](Day52.py) | Feature Selection using RFE |
+| 53 | [Day53.py](Day53.py) | Feature Selection using Lasso |
 
 ---
 

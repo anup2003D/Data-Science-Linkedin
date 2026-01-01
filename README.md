@@ -58,6 +58,7 @@ The goal of this repo is to:
 | 51 | [Day51.py](Day51.py) | Feature Selection |
 | 52 | [Day52.py](Day52.py) | Feature Selection using RFE |
 | 53 | [Day53.py](Day53.py) | Feature Selection using Lasso |
+| 54 | [Day54.py](Day54.py) | Dimensionality Reduction using PCA |
 
 ---
 

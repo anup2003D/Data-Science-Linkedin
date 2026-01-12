@@ -61,6 +61,8 @@ The goal of this repo is to:
 | 54 | [Day54.py](Day54.py) | Dimensionality Reduction using PCA |
 | 55 | [Day55.py](Day55.py) | Decision Trees (Non Linear Machine Learning Model) |
 | 56 | [Day56.py](Day56.py) | Model Interpretability |
+| 57 | [Day57.py](Day57.py) | Local Model Interpretability using SHAP |
+
 
 ---
 

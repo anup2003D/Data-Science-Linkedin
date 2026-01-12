@@ -63,7 +63,7 @@ The goal of this repo is to:
 | 56 | [Day56.py](Day56.py) | Model Interpretability |
 | 57 | [Day57.py](Day57.py) | Local Model Interpretability using SHAP |
 | 58 | [Day58.py](Day58.py) | Partial Dependence Plots (PDP): Understanding Feature Effects |
-
+| 59 | [Day59.py](Day59.py) | Model Debugging using SHAP |
 
 ---
 
